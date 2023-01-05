@@ -44,6 +44,7 @@ namespace FindWednesdayOf2023.ConsoleApp
 			}
 			return CollectionOfWeekOfDay;
 		}
+
 		/// <summary>
 		/// 輸入年份和星期?,找出此年的第一個星期?
 		/// </summary>
